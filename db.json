@@ -1,20 +1,16 @@
 {
-    "items_vt": [
+    "itemsVt": [
         {
-            "itemsVt": [
-                {
-                    "description": "12345 - Fulano de Tal",
-                    "value": ""
-                },
-                {
-                    "description": "4567 - wewewe",
-                    "value": ""
-                },
-                {
-                    "description": "212121 asdsad ",
-                    "value": ""
-                }
-            ]
+            "description": "12345 - Fulano de Tal",
+            "value": ""
+        },
+        {
+            "description": "4567 - wewewe",
+            "value": ""
+        },
+        {
+            "description": "212121 asdsad ",
+            "value": ""
         }
     ],
     "puntodepartida": [
