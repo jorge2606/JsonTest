@@ -1,5 +1,5 @@
 {
-    "items_vt": [
+    "items_vt": [{
         "itemsVt": [
             {
                 {
@@ -16,6 +16,7 @@
                 }
             }
         ]
+    }
     ],
     "puntodepartida": [
         {
