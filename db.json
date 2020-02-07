@@ -1,7 +1,7 @@
 {
     "items_vt": [
-        "itemsVt": [
-            {
+        {
+            "itemsVt": [
                 {
                     "description": "12345 - Fulano de Tal",
                     "value": ""
@@ -14,8 +14,8 @@
                     "description": "212121 asdsad ",
                     "value": ""
                 }
-            }
-        ]
+            ]
+        }
     ],
     "puntodepartida": [
         {
