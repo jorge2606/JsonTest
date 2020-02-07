@@ -4,15 +4,15 @@
             "itemsVt": [
                 {
                     "description": "12345 - Fulano de Tal",
-                    "value": ""
+                    "value": "123"
                 },
                 {
                     "description": "4567 - wewewe",
-                    "value": ""
+                    "value": "456"
                 },
                 {
                     "description": "212121 asdsad ",
-                    "value": ""
+                    "value": "789"
                 }
             ]
         }
@@ -20,23 +20,23 @@
     "puntodepartida": [
         {
             "description": "SUCURSAL",
-            "value": ""
+            "value": "sucursal"
         }
     ],
     "transporte": [
         {
             "description": "AUTO",
-            "value": ""
+            "value": "auto"
         }
     ],
     "visita": [
         {
             "description": "SI",
-            "value": ""
+            "value": "si"
         },
         {
             "description": "NO",
-            "value": ""
+            "value": "no"
         }
     ]
 }
