@@ -25,8 +25,12 @@
     ],
     "transporte": [
         {
-            "description": "AUTO",
-            "value": "auto"
+            "transport": [
+                {
+                    "description": "AUTO",
+                    "value": "auto"
+                }
+            ]
         }
     ],
     "visita": [
