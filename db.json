@@ -41,14 +41,12 @@
         {
             "items": [
                 {
-                    {
-                        "description": "SI",
-                        "value": "si"
-                    },
-                    {
-                        "description": "NO",
-                        "value": "no"
-                    }
+                    "description": "SI",
+                    "value": "si"
+                },
+                {
+                    "description": "NO",
+                    "value": "no"
                 }
             ]
         }
