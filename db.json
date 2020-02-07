@@ -23,6 +23,10 @@
                 {
                     "description": "SUCURSAL",
                     "value": "sucursal"
+                },
+                {
+                    "description": "CASA CENTRAL",
+                    "value": "casa central"
                 }
             ]
         }
@@ -33,6 +37,10 @@
                 {
                     "description": "AUTO",
                     "value": "auto"
+                },
+                {
+                    "description": "COLECTIVO",
+                    "value": "colectivo"
                 }
             ]
         }
