@@ -1,7 +1,7 @@
 {
     "items_vt": [
         {
-            "itemsVt": [
+            "items": [
                 {
                     "description": "12345 - Fulano de Tal",
                     "value": "123"
@@ -19,13 +19,17 @@
     ],
     "puntodepartida": [
         {
-            "description": "SUCURSAL",
-            "value": "sucursal"
+            "items": [
+                {
+                    "description": "SUCURSAL",
+                    "value": "sucursal"
+                }
+            ]
         }
     ],
     "transporte": [
         {
-            "transport": [
+            "items": [
                 {
                     "description": "AUTO",
                     "value": "auto"
@@ -35,12 +39,18 @@
     ],
     "visita": [
         {
-            "description": "SI",
-            "value": "si"
-        },
-        {
-            "description": "NO",
-            "value": "no"
+            "items": [
+                {
+                    {
+                        "description": "SI",
+                        "value": "si"
+                    },
+                    {
+                        "description": "NO",
+                        "value": "no"
+                    }
+                }
+            ]
         }
     ]
 }
