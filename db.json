@@ -1,7 +1,7 @@
 {
-    "items_vt": [
+    "items_vt": 
         {
-            "items": [
+            "items": 
                 {
                     "description": "12345 - Fulano de Tal",
                     "value": "123"
@@ -14,12 +14,12 @@
                     "description": "212121 asdsad ",
                     "value": "789"
                 }
-            ]
+            
         }
-    ],
-    "puntodepartida": [
+    ,
+    "puntodepartida": 
         {
-            "items": [
+            "items": 
                 {
                     "description": "SUCURSAL",
                     "value": "sucursal"
@@ -28,12 +28,12 @@
                     "description": "VISITA ANTERIOR",
                     "value": "visita_anterior"
                 }
-            ]
+            
         }
-    ],
+    ,
     "transporte": [
         {
-            "items": [
+            "items": 
                 {
                     "description": "AUTO",
                     "value": "auto"
@@ -52,10 +52,10 @@
                 }
             ]
         }
-    ],
+    ,
     "visita": [
         {
-            "items": [
+            "items": 
                 {
                     "description": "SI",
                     "value": "si"
@@ -64,12 +64,12 @@
                     "description": "NO",
                     "value": "no"
                 }
-            ]
+            
         }
     ],
     "expenditures": [
         {
-            "items": [
+            "items": 
                 {
                     "description": "ALMUERZO",
                     "value": "almuerzo"
@@ -90,7 +90,7 @@
                     "description": "PEAJE",
                     "value": "peaje"
                 }
-            ]
+            
         }
     ]
 }
