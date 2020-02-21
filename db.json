@@ -24,80 +24,72 @@
             ]
         }
     ],
-    "puntodepartida": [
-        {
-            "items": [
-                {
-                    "description": "SUCURSAL",
-                    "value": "sucursal"
-                },
-                {
-                    "description": "VISITA ANTERIOR",
-                    "value": "visita_anterior"
-                }
-            ]
-        }
-    ],
-    "transporte": [
-        {
-            "items": [
-                {
-                    "description": "AUTO",
-                    "value": "auto"
-                },
-                {
-                    "description": "MOTO",
-                    "value": "moto"
-                },
-                {
-                    "description": "TAXI",
-                    "value": "taxi"
-                },
-                {
-                    "description": "TRANSPORTE PUBLICO",
-                    "value": "colectivo"
-                }
-            ]
-        }
-    ],
-    "visita": [
-        {
-            "items": [
-                {
-                    "description": "SI",
-                    "value": "si"
-                },
-                {
-                    "description": "NO",
-                    "value": "no"
-                }
-            ]
-        }
-    ],
-    "expenditures": [
-        {
-            "items": [
-                {
-                    "description": "ALMUERZO",
-                    "value": "almuerzo"
-                },
-                {
-                    "description": "CENA",
-                    "value": "cena"
-                },
-                {
-                    "description": "GUARDERIA",
-                    "value": "guarderia"
-                },
-                {
-                    "description": "ESTACINAMIENTO",
-                    "value": "estacionamiento"
-                },
-                {
-                    "description": "PEAJE",
-                    "value": "peaje"
-                }
-            ]
-        }
-    ]
+    "puntodepartida": {
+        "items": [
+            {
+                "description": "SUCURSAL",
+                "value": "sucursal"
+            },
+            {
+                "description": "VISITA ANTERIOR",
+                "value": "visita_anterior"
+            }
+        ]
+    },
+    "transporte": {
+        "items": [
+            {
+                "description": "AUTO",
+                "value": "auto"
+            },
+            {
+                "description": "MOTO",
+                "value": "moto"
+            },
+            {
+                "description": "TAXI",
+                "value": "taxi"
+            },
+            {
+                "description": "TRANSPORTE PUBLICO",
+                "value": "colectivo"
+            }
+        ]
+    },
+    "visita": {
+        "items": [
+            {
+                "description": "SI",
+                "value": "si"
+            },
+            {
+                "description": "NO",
+                "value": "no"
+            }
+        ]
+    },
+    "expenditures": {
+        "items": [
+            {
+                "description": "ALMUERZO",
+                "value": "almuerzo"
+            },
+            {
+                "description": "CENA",
+                "value": "cena"
+            },
+            {
+                "description": "GUARDERIA",
+                "value": "guarderia"
+            },
+            {
+                "description": "ESTACINAMIENTO",
+                "value": "estacionamiento"
+            },
+            {
+                "description": "PEAJE",
+                "value": "peaje"
+            }
+        ]
+    }
 }
