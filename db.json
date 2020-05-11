@@ -90,6 +90,10 @@
     "visita": {
         "items": [
             {
+                "description": "",
+                "value": ""
+            },
+            {
                 "description": "SI",
                 "value": "si"
             },
