@@ -2,6 +2,10 @@
     "items_vt": {
         "items": [
             {
+                "description": "selecciona uno",
+                "value": "nothing_selected"
+            },
+            {
                 "description": "12345 - test",
                 "value": "12345"
             },
