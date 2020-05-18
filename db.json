@@ -74,20 +74,20 @@
     "transporte": {
         "items": [
             {
-                "description": "AUTO",
-                "value": "auto"
+                "name": "AUTO",
+                "id": 1
             },
             {
-                "description": "MOTO",
-                "value": "moto"
+                "name": "MOTO",
+                "id": 2
             },
             {
-                "description": "TAXI",
-                "value": "taxi"
+                "name": "TAXI",
+                "id": 3
             },
             {
-                "description": "TRANSPORTE PUBLICO",
-                "value": "colectivo"
+                "name": "TRANSPORTE PUBLICO",
+                "id": 3
             }
         ]
     },
