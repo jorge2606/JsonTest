@@ -1,15 +1,17 @@
 {
-  "token": "23eqwewqe234123123213",
-  "refreshToken": "qweqwe231213qweqwe23",
-  "userProfile": {
-    "dni": 324324324,
-    "firstName": "jorge",
-    "lastName": "romero",
-    "password": "",
-    "confirmPassword": "",
-    "email": "romerojorgeluis19@gmail.com",
-    "phoneNumber": 345345435,
-    "hasTycPending": true,
-    "completeProfile": true
+  "user": {
+    "token": "23eqwewqe234123123213",
+    "refreshToken": "qweqwe231213qweqwe23",
+    "userProfile": {
+      "dni": 324324324,
+      "firstName": "jorge",
+      "lastName": "romero",
+      "password": "",
+      "confirmPassword": "",
+      "email": "romerojorgeluis19@gmail.com",
+      "phoneNumber": 345345435,
+      "hasTycPending": true,
+      "completeProfile": true
+    }
   }
 }
