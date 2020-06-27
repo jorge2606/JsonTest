@@ -1,134 +1,15 @@
 {
-    "items_vt": {
-        "items": [
-            {
-                "description": "selecciona uno",
-                "value": "nothing_selected"
-            },
-            {
-                "description": "12345 - test",
-                "value": "12345"
-            },
-            {
-                "description": "4567 - test",
-                "value": "4567"
-            },
-            {
-                "description": "8910 test",
-                "value": "8910"
-            },            {
-                "description": "3454545 - test",
-                "value": "3454545"
-            },
-            {
-                "description": "0998098 - test",
-                "value": "0998098"
-            },
-            {
-                "description": "212121 test",
-                "value": "212121"
-            },            {
-                "description": "00000 - test",
-                "value": "00000"
-            },
-            {
-                "description": "9999 - test",
-                "value": "9999"
-            },
-            {
-                "description": "1111 test ",
-                "value": "1111"
-            },            {
-                "description": "33333 - test",
-                "value": "33333"
-            },
-            {
-                "description": "44444 - test",
-                "value": "44444"
-            },
-            {
-                "description": "555555 test",
-                "value": "555555"
-            },            {
-                "description": "66666 - test",
-                "value": "66666"
-            },
-            {
-                "description": "7777 - test",
-                "value": "7777"
-            }
-        ]
-    },
-    "puntodepartida": {
-        "items": [
-            {
-                "description": "SUCURSAL",
-                "value": "sucursal"
-            },
-            {
-                "description": "VISITA ANTERIOR",
-                "value": "visita_anterior"
-            }
-        ]
-    },
-    "transporte": {
-        "items": [
-            {
-                "name": "AUTO",
-                "id": 1
-            },
-            {
-                "name": "MOTO",
-                "id": 2
-            },
-            {
-                "name": "TAXI",
-                "id": 3
-            },
-            {
-                "name": "TRANSPORTE PUBLICO",
-                "id": 4
-            }
-        ]
-    },
-    "visita": {
-        "items": [
-            {
-                "description": "",
-                "value": "nothing_selected"
-            },
-            {
-                "description": "SI",
-                "value": "si"
-            },
-            {
-                "description": "NO",
-                "value": "no"
-            }
-        ]
-    },
-    "expenditures": {
-        "items": [
-            {
-                "description": "ALMUERZO",
-                "value": "almuerzo"
-            },
-            {
-                "description": "CENA",
-                "value": "cena"
-            },
-            {
-                "description": "GUARDERIA",
-                "value": "guarderia"
-            },
-            {
-                "description": "ESTACINAMIENTO",
-                "value": "estacionamiento"
-            },
-            {
-                "description": "PEAJE",
-                "value": "peaje"
-            }
-        ]
-    }
+  "token": "23eqwewqe234123123213",
+  "refreshToken": "qweqwe231213qweqwe23",
+  "userProfile": {
+    "dni": 324324324,
+    "firstName": "jorge",
+    "lastName": "romero",
+    "password": "",
+    "confirmPassword": "",
+    "email": "romerojorgeluis19@gmail.com",
+    "phoneNumber": 345345435,
+    "hasTycPending": true,
+    "completeProfile": true
+  }
 }
