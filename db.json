@@ -10,8 +10,8 @@
       "confirmPassword": "",
       "email": "romerojorgeluis19@gmail.com",
       "phoneNumber": "345345435",
-      "hasTycPending": true,
-      "completeProfile": true
+      "hasTycPending": false,
+      "completeProfile": false
     }
   }
 }
