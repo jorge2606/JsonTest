@@ -8,8 +8,8 @@
       "lastName": "romero",
       "email": "romerojorgeluis19@gmail.com",
       "phoneNumber": "345345435",
-      "hasTycPending": false,
-      "completeProfile": false
+      "hasTycPending": true,
+      "completeProfile": true
     }
   }
 }
