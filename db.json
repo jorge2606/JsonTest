@@ -6,12 +6,10 @@
       "dni": "324324324",
       "firstName": "jorge",
       "lastName": "romero",
-      "password": "",
-      "confirmPassword": "",
       "email": "romerojorgeluis19@gmail.com",
       "phoneNumber": "345345435",
-      "hasTycPending": "false",
-      "completeProfile": "false"
+      "hasTycPending": false,
+      "completeProfile": false
     }
   }
 }
