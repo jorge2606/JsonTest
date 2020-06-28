@@ -1,7 +1,7 @@
 {
   "user": {
-    "token": "23eqwewqe234123123213",
-    "refreshToken": "qweqwe231213qweqwe23",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjNhMDUwMDJlLWQxYWItNDBiYS04MGU2LWYyOGFmNTI2MzcyZSIsIm5iZiI6MTU5MzM1ODcxMiwiZXhwIjoxNTkzOTYzNTEyLCJpYXQiOjE1OTMzNTg3MTJ9.D1IHkVlJxKYo3o6jpb6ckR7-CFZN9mr2CuFpsKb9dEg",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjNhMDUwMDJlLWQxYWItNDBiYS04MGU2LWYyOGFmNTI2MzcyZSIsIm5iZiI6MTU5MzM1ODcxMiwiZXhwIjoxNjI0OTgxMTEyLCJpYXQiOjE1OTMzNTg3MTJ9.legMQbVxiodzBg2e8KUbOFpFJiKRCo607uen_1EQOjk",
     "userProfile": {
       "dni": "324324324",
       "firstName": "jorge",
