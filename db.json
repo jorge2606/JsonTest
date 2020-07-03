@@ -11,5 +11,15 @@
       "hasTycPending": true,
       "completeProfile": true
     }
-  }
+  },
+  "roles": [
+    {
+      "id": 1,
+      "name": "Inquilino"
+    },
+    {
+      "id": 2,
+      "name": "Propietario"
+    }
+  ]
 }
