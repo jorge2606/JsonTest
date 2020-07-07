@@ -21,14 +21,13 @@
       "id": 2,
       "name": "Propietario"
     },
-      {
+    {
       "id": 3,
       "name": "Agente"
     }
   ],
-{
   "building": [
-      {
+    {
       "id": "23432434",
       "name": "casa name",
       "type": {
@@ -73,6 +72,5 @@
       },
       "province": null
     }
-    ]
-  }
+  ]
 }
