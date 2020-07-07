@@ -43,11 +43,11 @@
       "depto": "departamento 546",
       "zipCode": "3400",
       "country": {
-        "id": "1",
+        "id": 1,
         "name": "Argentina"
       },
       "province": {
-        "id": "1",
+        "id": 1,
         "name": "Misiones"
       }
     },
@@ -67,10 +67,9 @@
       "depto": "departamento 0787",
       "zipCode": "2346",
       "country": {
-        "id": "2",
+        "id": 2,
         "name": "SENEGAL"
       },
-      "province": null
     }
   ]
 }
