@@ -34,7 +34,7 @@
         "id": "1",
         "name": "particular"
       },
-      "surface": "4.56",
+      "surface": 4.56,
       "street": "street",
       "street1": "street1",
       "street2": "street2",
@@ -58,7 +58,7 @@
         "id": "2",
         "name": "casa"
       },
-      "surface": "7.99",
+      "surface": 7.99,
       "street": "street 00",
       "street1": "street1 000",
       "street2": "street2 000",
