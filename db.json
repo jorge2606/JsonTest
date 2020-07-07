@@ -49,6 +49,10 @@
       "province": {
         "id": 1,
         "name": "Misiones"
+      },
+      "role": {
+        "id": 1,
+        "name": "Inquilino"
       }
     },
     {
@@ -69,6 +73,34 @@
       "country": {
         "id": 2,
         "name": "SENEGAL"
+      },
+      "role": {
+        "id": 2,
+        "name": "Propietario"
+      }
+    },
+    {
+      "id": "777777",
+      "name": "depto 232323",
+      "type": {
+        "id": 2,
+        "name": "casa"
+      },
+      "surface": 7.99,
+      "street": "street 999",
+      "street1": "street23",
+      "street2": "street2 qwewqewq",
+      "aparment": "aparmen wqewqewqe",
+      "numeration": "23432432-324324",
+      "depto": "departamento 2343243",
+      "zipCode": "3445",
+      "country": {
+        "id": 2,
+        "name": "SENEGAL"
+      },
+      "role": {
+        "id": 3,
+        "name": "Propietario"
       }
     }
   ]
