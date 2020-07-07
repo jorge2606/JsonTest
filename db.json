@@ -31,7 +31,7 @@
       "id": "23432434",
       "name": "casa name",
       "type": {
-        "id": "1",
+        "id": 1,
         "name": "particular"
       },
       "surface": 4.56,
@@ -55,7 +55,7 @@
       "id": "8888888",
       "name": "depto name",
       "type": {
-        "id": "2",
+        "id": 2,
         "name": "casa"
       },
       "surface": 7.99,
