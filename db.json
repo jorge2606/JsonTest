@@ -53,7 +53,19 @@
       "role": {
         "id": 1,
         "name": "Inquilino"
-      }
+      },
+      "bindingRol": [
+        {
+          "id": 1,
+          "name": "dasd asdsad",
+          "lastName": "asdasdsdas"
+        },
+        {
+          "id": 3,
+          "name": "asdasd",
+          "lastName": "asadasdsa"
+        }
+      ]
     },
     {
       "id": "8888888",
@@ -74,6 +86,18 @@
         "id": 2,
         "name": "SENEGAL"
       },
+      "bindingRol": [
+        {
+          "id": 1,
+          "name": "dasd asdsad",
+          "lastName": "asdasdsdas"
+        },
+        {
+          "id": 3,
+          "name": "asdasd",
+          "lastName": "asadasdsa"
+        }
+      ],
       "role": {
         "id": 2,
         "name": "Propietario"
@@ -98,9 +122,16 @@
         "id": 2,
         "name": "SENEGAL"
       },
+      "bindingRol": [
+        {
+          "id": 1,
+          "name": "pepe",
+          "lastName": "pepito"
+        }
+      ],
       "role": {
         "id": 3,
-        "name": "Propietario"
+        "name": "Agente"
       }
     }
   ]
