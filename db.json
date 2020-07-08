@@ -59,13 +59,13 @@
           "id": 1,
           "firstName": "dasd asdsad",
           "lastName": "asdasdsdas",
-          "dni":"323232"
+          "dni": "323232"
         },
         {
           "id": 3,
           "firstName": "asdasd",
           "lastName": "asadasdsa",
-          "dni":"576767"
+          "dni": "576767"
         }
       ]
     },
@@ -93,13 +93,13 @@
           "id": 1,
           "firstName": "dasd asdsad",
           "lastName": "asdasdsdas",
-          "dni":"090909"
+          "dni": "090909"
         },
         {
           "id": 3,
           "firstName": "asdasd",
           "lastName": "asadasdsa",
-          "dni":"3234234"
+          "dni": "3234234"
         }
       ],
       "role": {
@@ -131,150 +131,7 @@
           "id": 1,
           "firstName": "pepe",
           "lastName": "pepito",
-          "dni":"3331515"
-        }
-      ],
-      "role": {
-        "id": 3,
-        "name": "Agente"
-      }
-    }
-  ]
-}
-{
-  "user": {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjNhMDUwMDJlLWQxYWItNDBiYS04MGU2LWYyOGFmNTI2MzcyZSIsIm5iZiI6MTU5MzM1ODcxMiwiZXhwIjoxNTkzOTYzNTEyLCJpYXQiOjE1OTMzNTg3MTJ9.D1IHkVlJxKYo3o6jpb6ckR7-CFZN9mr2CuFpsKb9dEg",
-    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjNhMDUwMDJlLWQxYWItNDBiYS04MGU2LWYyOGFmNTI2MzcyZSIsIm5iZiI6MTU5MzM1ODcxMiwiZXhwIjoxNjI0OTgxMTEyLCJpYXQiOjE1OTMzNTg3MTJ9.legMQbVxiodzBg2e8KUbOFpFJiKRCo607uen_1EQOjk",
-    "userProfile": {
-      "dni": "324324324",
-      "firstName": "jorge",
-      "lastName": "romero",
-      "email": "romerojorgeluis19@gmail.com",
-      "phoneNumber": "345345435",
-      "hasTycPending": true,
-      "completeProfile": true
-    }
-  },
-  "roles": [
-    {
-      "id": 1,
-      "name": "Inquilino"
-    },
-    {
-      "id": 2,
-      "name": "Propietario"
-    },
-    {
-      "id": 3,
-      "name": "Agente"
-    }
-  ],
-  "building": [
-    {
-      "id": "23432434",
-      "name": "casa name",
-      "type": {
-        "id": 1,
-        "name": "particular"
-      },
-      "surface": 4.56,
-      "street": "street",
-      "street1": "street1",
-      "street2": "street2",
-      "aparment": "aparment",
-      "numeration": "4565656",
-      "depto": "departamento 546",
-      "zipCode": "3400",
-      "country": {
-        "id": 1,
-        "name": "Argentina"
-      },
-      "province": {
-        "id": 1,
-        "name": "Misiones"
-      },
-      "role": {
-        "id": 1,
-        "name": "Inquilino"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "dasd asdsad",
-          "lastName": "asdasdsdas",
-          "dni":"323232"
-        },
-        {
-          "id": 3,
-          "firstName": "asdasd",
-          "lastName": "asadasdsa",
-          "dni":"576767"
-        }
-      ]
-    },
-    {
-      "id": "8888888",
-      "name": "depto name",
-      "type": {
-        "id": 2,
-        "name": "casa"
-      },
-      "surface": 7.99,
-      "street": "street 00",
-      "street1": "street1 000",
-      "street2": "street2 000",
-      "aparment": "aparment 000",
-      "numeration": "0000-78778-878",
-      "depto": "departamento 0787",
-      "zipCode": "2346",
-      "country": {
-        "id": 2,
-        "name": "SENEGAL"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "dasd asdsad",
-          "lastName": "asdasdsdas",
-          "dni":"090909"
-        },
-        {
-          "id": 3,
-          "firstName": "asdasd",
-          "lastName": "asadasdsa",
-          "dni":"3234234"
-        }
-      ],
-      "role": {
-        "id": 2,
-        "name": "Propietario"
-      }
-    },
-    {
-      "id": "777777",
-      "name": "depto 232323",
-      "type": {
-        "id": 2,
-        "name": "casa"
-      },
-      "surface": 7.99,
-      "street": "street 999",
-      "street1": "street23",
-      "street2": "street2 qwewqewq",
-      "aparment": "aparmen wqewqewqe",
-      "numeration": "23432432-324324",
-      "depto": "departamento 2343243",
-      "zipCode": "3445",
-      "country": {
-        "id": 2,
-        "name": "SENEGAL"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "pepe",
-          "lastName": "pepito",
-          "dni":"3331515"
+          "dni": "3331515"
         }
       ],
       "role": {
