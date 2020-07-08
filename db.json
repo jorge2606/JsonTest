@@ -57,12 +57,12 @@
       "bindingRol": [
         {
           "id": 1,
-          "name": "dasd asdsad",
+          "firstName": "dasd asdsad",
           "lastName": "asdasdsdas"
         },
         {
           "id": 3,
-          "name": "asdasd",
+          "firstName": "asdasd",
           "lastName": "asadasdsa"
         }
       ]
@@ -89,12 +89,12 @@
       "bindingRol": [
         {
           "id": 1,
-          "name": "dasd asdsad",
+          "firstName": "dasd asdsad",
           "lastName": "asdasdsdas"
         },
         {
           "id": 3,
-          "name": "asdasd",
+          "firstName": "asdasd",
           "lastName": "asadasdsa"
         }
       ],
@@ -125,7 +125,7 @@
       "bindingRol": [
         {
           "id": 1,
-          "name": "pepe",
+          "firstName": "pepe",
           "lastName": "pepito"
         }
       ],
