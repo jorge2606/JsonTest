@@ -26,6 +26,28 @@
       "name": "Agente"
     }
   ],
+  "typesList": [
+    {
+      "id": 1,
+      "name": "Casa"
+    },
+    {
+      "id": 2,
+      "name": "Dpto"
+    },
+    {
+      "id": 3,
+      "name": "PH"
+    },
+    {
+      "id": 4,
+      "name": "Oficina"
+    },
+    {
+      "id": 5,
+      "name": "Otro"
+    }
+  ],
   "building": [
     {
       "id": "23432434",
