@@ -173,5 +173,19 @@
         "name": "Agente"
       }
     }
-  ]
+  ],
+  "categories" : [
+      {
+        "id":1,
+        "description":"Administracion y asistencia"
+      },
+      {
+        "id":2,
+        "description":"Asistencia"
+      },
+      {
+        "id":3,
+        "description":"Seguros"
+      }
+    ]
 }
