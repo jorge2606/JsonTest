@@ -164,15 +164,15 @@
   ],
   "categories" : [
       {
-        "id":1,
+        "id":4,
         "description":"Administracion y asistencia"
       },
       {
-        "id":2,
+        "id":5,
         "description":"Asistencia"
       },
       {
-        "id":3,
+        "id":6,
         "description":"Seguros"
       }
     ]
