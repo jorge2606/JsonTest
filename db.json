@@ -1,10 +1,10 @@
 {
- "help":{
-     "phone":"011-7078-3500",
-     "phoneCta":"0810-220-3500",
-     "whatsapp":"wa.me/5491170783500",
-     "email":"asistencia@admax.com.ar"
- },
+  "help": {
+    "phone": "011-7078-3500",
+    "phoneCta": "0810-220-3500",
+    "whatsapp": "wa.me/5491170783500",
+    "email": "asistencia@admax.com.ar"
+  },
   "roles": [
     {
       "id": 1,
@@ -41,144 +41,32 @@
       "name": "Otro"
     }
   ],
-  "building": [
+  "conditionAfip": [
     {
-      "id": "23432434",
-      "name": "casa name",
-      "type": {
-        "id": 1,
-        "name": "particular"
-      },
-      "surface": 4.56,
-      "street": "street",
-      "street1": "street1",
-      "street2": "street2",
-      "aparment": "aparment",
-      "numeration": "4565656",
-      "depto": "departamento 546",
-      "zipCode": "3400",
-      "country": {
-        "id": 1,
-        "name": "Argentina"
-      },
-      "province": {
-        "id": 1,
-        "name": "Misiones"
-      }, 
-      "locality": {
-        "id": 2680,
-        "name": "Apostoles"
-      },
-      "role": {
-        "id": 1,
-        "name": "Inquilino"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "dasd asdsad",
-          "lastName": "asdasdsdas",
-          "dni": "323232"
-        },
-        {
-          "id": 3,
-          "firstName": "asdasd",
-          "lastName": "asadasdsa",
-          "dni": "576767"
-        }
-      ]
+      "id": 1,
+      "description": "consumidor Final"
     },
     {
-      "id": "8888888",
-      "name": "depto name",
-      "type": {
-        "id": 2,
-        "name": "casa"
-      },
-      "surface": 7.99,
-      "street": "street 00",
-      "street1": "street1 000",
-      "street2": "street2 000",
-      "aparment": "aparment 000",
-      "numeration": "0000-78778-878",
-      "depto": "departamento 0787",
-      "zipCode": "2346",
-      "country": {
-        "id": 2,
-        "name": "SENEGAL"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "dasd asdsad",
-          "lastName": "asdasdsdas",
-          "dni": "090909"
-        },
-        {
-          "id": 3,
-          "firstName": "asdasd",
-          "lastName": "asadasdsa",
-          "dni": "3234234"
-        }
-      ],
-      "role": {
-        "id": 2,
-        "name": "Propietario"
-      }
+      "id": 2,
+      "description": "Responsable inscripto"
     },
     {
-      "id": "777777",
-      "name": "depto 232323",
-      "type": {
-        "id": 2,
-        "name": "casa"
-      },
-      "surface": 7.99,
-      "street": "street 999",
-      "street1": "street23",
-      "street2": "street2 qwewqewq",
-      "aparment": "aparmen wqewqewqe",
-      "numeration": "23432432-324324",
-      "depto": "departamento 2343243",
-      "zipCode": "3445",
-      "country": {
-        "id": 2,
-        "name": "SENEGAL"
-      },
-      "province": {
-        "id": 1,
-        "name": "Misiones"
-      },
-      "locality": {
-        "id": 2680,
-        "name": "Apostoles"
-      },
-      "bindingRol": [
-        {
-          "id": 1,
-          "firstName": "pepe",
-          "lastName": "pepito",
-          "dni": "3331515"
-        }
-      ],
-      "role": {
-        "id": 3,
-        "name": "Agente"
-      }
+      "id": 3,
+      "description": "Responsable monotributo"
     }
   ],
-  "categories" : [
-      {
-        "id":4,
-        "description":"Administracion y asistencia"
-      },
-      {
-        "id":5,
-        "description":"Asistencia"
-      },
-      {
-        "id":6,
-        "description":"Seguros"
-      }
-    ]
+  "categories": [
+    {
+      "id": 4,
+      "description": "Administracion y asistencia"
+    },
+    {
+      "id": 5,
+      "description": "Asistencia"
+    },
+    {
+      "id": 6,
+      "description": "Seguros"
+    }
+  ]
 }
