@@ -49,8 +49,8 @@
         "notificationSms": false,
         "notificationEmail": false,
         "notificationPhone": false,
-        "hasTycPending": false,
-        "hasCompleteProfilePending": false
+        "hasTycPending": true,
+        "hasCompleteProfilePending": true
   
 }
   },
