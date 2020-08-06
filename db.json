@@ -19,28 +19,11 @@
       "name": "Agente"
     }
   ],
-  "typesList": [
-    {
-      "id": 1,
-      "name": "Casa"
-    },
-    {
-      "id": 2,
-      "name": "Dpto"
-    },
-    {
-      "id": 3,
-      "name": "PH"
-    },
-    {
-      "id": 4,
-      "name": "Oficina"
-    },
-    {
-      "id": 5,
-      "name": "Otro"
-    }
-  ],
+  "user": {
+      "firstName": "test name",
+      "lastName":"test username",
+      "email":"test@test.com"
+  },
   "conditionAfip": [
     {
       "id": 1,
