@@ -20,9 +20,39 @@
     }
   ],
   "user": {
-      "firstName": "test name",
-      "lastName":"test username",
-      "email":"test@test.com"
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjQxZTlkYjBkLTU4OWUtNDAxMS1iY2NmLWExMTNjMjE1M2VjNCIsIm5iZiI6MTU5NjcyNDUyMiwiZXhwIjoxNTk3MzI5MzIyLCJpYXQiOjE1OTY3MjQ1MjIsImlzcyI6IkVhc3lSZW50QXBwIiwiYXVkIjoiRWFzeVJlbnRDbGllbnQifQ.DpxgCqcNnoIQ2GZFvO45j_zA1DPYuic-Omg_Ma2N2pQ",
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjQxZTlkYjBkLTU4OWUtNDAxMS1iY2NmLWExMTNjMjE1M2VjNCIsIm5iZiI6MTU5NjcyNDUyMiwiZXhwIjoxNjI4MzQ2OTIyLCJpYXQiOjE1OTY3MjQ1MjIsImlzcyI6IkVhc3lSZW50QXBwIiwiYXVkIjoiRWFzeVJlbnRDbGllbnQifQ.C3Oo3REcyRHi713dhIcJte6WLJltekhzqrqpWw6ft6g",
+      "userProfile": {
+        "dni": "34444444",
+        "email": "romerojorgeluis19+1234@gmail.com",
+        "firstName": "jorge",
+        "lastName": "romero",
+        "gender": {
+          "id": 1,
+          "name": "Hombre"
+        },
+        "dateOfBirth": "1996-06-10T00:00:00",
+        "phoneMobile": "22223444444",
+        "country": {
+          "id": 1,
+          "name": "ARGENTINA"
+        },
+        "province": {
+          "id": 1,
+          "name": "Misiones"
+        },
+        "location": {
+          "id": 2680,
+          "name": "APOSTOLES"
+        },
+        "zipCode": "3400",
+        "notificationSms": false,
+        "notificationEmail": false,
+        "notificationPhone": false,
+        "hasTycPending": false,
+        "hasCompleteProfilePending": false
+  
+}
   },
   "conditionAfip": [
     {
