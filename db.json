@@ -1,85 +1,738 @@
-{
-  "help": {
-    "phone": "011-7078-3500",
-    "phoneCta": "0810-220-3500",
-    "whatsapp": "wa.me/5491170783500",
-    "email": "asistencia@admax.com.ar"
-  },
-  "roles": [
+[
     {
-      "id": 1,
-      "name": "Inquilino"
+      "titulo": "Tú",
+      "fecha": "2020-09-19 08:47:16",
+      "monto": 159551.75,
+      "medio_de_pago": {
+        "id": 13,
+        "description": "Runolfsson, Huels and Turner"
+      },
+      "numero_de_operacion": "0500704899"
     },
     {
-      "id": 2,
-      "name": "Propietario"
+      "titulo": "Andréanne",
+      "fecha": "2020-10-17 04:31:31",
+      "monto": 217054.43,
+      "medio_de_pago": {"id": 31, "description": "Larson LLC"},
+      "numero_de_operacion": "6690156591"
     },
     {
-      "id": 3,
-      "name": "Agente"
-    }
-  ],
-  "user": {
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjQxZTlkYjBkLTU4OWUtNDAxMS1iY2NmLWExMTNjMjE1M2VjNCIsIm5iZiI6MTU5NjcyNDUyMiwiZXhwIjoxNTk3MzI5MzIyLCJpYXQiOjE1OTY3MjQ1MjIsImlzcyI6IkVhc3lSZW50QXBwIiwiYXVkIjoiRWFzeVJlbnRDbGllbnQifQ.DpxgCqcNnoIQ2GZFvO45j_zA1DPYuic-Omg_Ma2N2pQ",
-      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZGVudGl0eVVzZXJJZCI6IjQxZTlkYjBkLTU4OWUtNDAxMS1iY2NmLWExMTNjMjE1M2VjNCIsIm5iZiI6MTU5NjcyNDUyMiwiZXhwIjoxNjI4MzQ2OTIyLCJpYXQiOjE1OTY3MjQ1MjIsImlzcyI6IkVhc3lSZW50QXBwIiwiYXVkIjoiRWFzeVJlbnRDbGllbnQifQ.C3Oo3REcyRHi713dhIcJte6WLJltekhzqrqpWw6ft6g",
-      "userProfile": {
-        "dni": "34444444",
-        "email": "romerojorgeluis19+1234@gmail.com",
-        "firstName": "jorge",
-        "lastName": "romero",
-        "gender": {
-          "id": 1,
-          "name": "Hombre"
-        },
-        "dateOfBirth": "1996-06-10T00:00:00",
-        "phoneMobile": "22223444444",
-        "country": {
-          "id": 1,
-          "name": "ARGENTINA"
-        },
-        "province": {
-          "id": 1,
-          "name": "Misiones"
-        },
-        "location": {
-          "id": 2680,
-          "name": "APOSTOLES"
-        },
-        "zipCode": "3400",
-        "notificationSms": false,
-        "notificationEmail": false,
-        "notificationPhone": false,
-        "hasTycPending": true,
-        "hasCompleteProfilePending": true
-  
-}
-  },
-  "conditionAfip": [
-    {
-      "id": 1,
-      "description": "consumidor Final"
+      "titulo": "Maëlann",
+      "fecha": "2020-08-19 23:29:51",
+      "monto": 30865.42,
+      "medio_de_pago": {"id": 63, "description": "Blick, Considine and Legros"},
+      "numero_de_operacion": "0363205985"
     },
     {
-      "id": 2,
-      "description": "Responsable inscripto"
+      "titulo": "Sòng",
+      "fecha": "2020-05-01 19:58:53",
+      "monto": 30816.08,
+      "medio_de_pago": {"id": 19, "description": "Sanford, Gibson and Smitham"},
+      "numero_de_operacion": "2664738399"
     },
     {
-      "id": 3,
-      "description": "Responsable monotributo"
-    }
-  ],
-  "categories": [
-    {
-      "id": 4,
-      "description": "Administracion y asistencia"
+      "titulo": "Garçon",
+      "fecha": "2020-03-27 01:41:52",
+      "monto": 76612.74,
+      "medio_de_pago": {
+        "id": 84,
+        "description": "Christiansen, Deckow and Schoen"
+      },
+      "numero_de_operacion": "5483800265"
     },
     {
-      "id": 5,
-      "description": "Asistencia"
+      "titulo": "Håkan",
+      "fecha": "2021-01-26 07:41:29",
+      "monto": 178411.57,
+      "medio_de_pago": {"id": 56, "description": "Schaden-Wiegand"},
+      "numero_de_operacion": "9440897244"
     },
     {
-      "id": 6,
-      "description": "Seguros"
+      "titulo": "Léana",
+      "fecha": "2020-03-30 14:39:46",
+      "monto": 40083.09,
+      "medio_de_pago": {"id": 50, "description": "Doyle-Schaefer"},
+      "numero_de_operacion": "7296518219"
+    },
+    {
+      "titulo": "Françoise",
+      "fecha": "2020-06-08 05:40:29",
+      "monto": 118282.01,
+      "medio_de_pago": {"id": 74, "description": "Tremblay Inc"},
+      "numero_de_operacion": "7370924572"
+    },
+    {
+      "titulo": "Zoé",
+      "fecha": "2020-07-15 13:44:47",
+      "monto": 249205.37,
+      "medio_de_pago": {"id": 50, "description": "VonRueden Inc"},
+      "numero_de_operacion": "6696309772"
+    },
+    {
+      "titulo": "Célestine",
+      "fecha": "2020-05-06 03:52:07",
+      "monto": 150467.7,
+      "medio_de_pago": {
+        "id": 56,
+        "description": "Schmeler, Murazik and Wisozk"
+      },
+      "numero_de_operacion": "4615444540"
+    },
+    {
+      "titulo": "Cécile",
+      "fecha": "2020-02-18 07:32:47",
+      "monto": 156123.84,
+      "medio_de_pago": {"id": 59, "description": "Ledner-Hyatt"},
+      "numero_de_operacion": "8278674124"
+    },
+    {
+      "titulo": "Eugénie",
+      "fecha": "2020-05-25 14:52:38",
+      "monto": 72893.61,
+      "medio_de_pago": {
+        "id": 11,
+        "description": "Barton, Pollich and Marquardt"
+      },
+      "numero_de_operacion": "5397127787"
+    },
+    {
+      "titulo": "Faîtes",
+      "fecha": "2020-10-23 01:02:51",
+      "monto": 227041.02,
+      "medio_de_pago": {"id": 86, "description": "Stoltenberg-Effertz"},
+      "numero_de_operacion": "0811664716"
+    },
+    {
+      "titulo": "Maëlla",
+      "fecha": "2020-07-06 16:02:13",
+      "monto": 61432.37,
+      "medio_de_pago": {"id": 2, "description": "Spinka, Price and Flatley"},
+      "numero_de_operacion": "4478325685"
+    },
+    {
+      "titulo": "Audréanne",
+      "fecha": "2021-01-12 23:32:44",
+      "monto": 162214.39,
+      "medio_de_pago": {
+        "id": 65,
+        "description": "Tremblay, McKenzie and Kessler"
+      },
+      "numero_de_operacion": "5764685087"
+    },
+    {
+      "titulo": "Görel",
+      "fecha": "2020-03-04 12:03:59",
+      "monto": 87093.07,
+      "medio_de_pago": {
+        "id": 9,
+        "description": "Prohaska, Stiedemann and Stoltenberg"
+      },
+      "numero_de_operacion": "9054946121"
+    },
+    {
+      "titulo": "Bérangère",
+      "fecha": "2020-05-12 04:24:34",
+      "monto": 14064.18,
+      "medio_de_pago": {"id": 81, "description": "Marks, Baumbach and Swift"},
+      "numero_de_operacion": "4127468661"
+    },
+    {
+      "titulo": "Garçon",
+      "fecha": "2020-07-19 02:16:24",
+      "monto": 233966.83,
+      "medio_de_pago": {"id": 33, "description": "Simonis, Morar and Rohan"},
+      "numero_de_operacion": "1877354686"
+    },
+    {
+      "titulo": "Eugénie",
+      "fecha": "2021-01-07 08:07:08",
+      "monto": 188609.52,
+      "medio_de_pago": {"id": 51, "description": "Goodwin, Mante and Gaylord"},
+      "numero_de_operacion": "0119575175"
+    },
+    {
+      "titulo": "Wá",
+      "fecha": "2020-03-08 16:44:01",
+      "monto": 142418.11,
+      "medio_de_pago": {"id": 23, "description": "Krajcik Inc"},
+      "numero_de_operacion": "9357176284"
+    },
+    {
+      "titulo": "Béatrice",
+      "fecha": "2020-11-19 14:59:48",
+      "monto": 201741.56,
+      "medio_de_pago": {"id": 44, "description": "Heller, Thiel and Schoen"},
+      "numero_de_operacion": "1919537287"
+    },
+    {
+      "titulo": "Almérinda",
+      "fecha": "2020-11-10 21:25:18",
+      "monto": 17873.59,
+      "medio_de_pago": {"id": 4, "description": "Vandervort, Ward and Lesch"},
+      "numero_de_operacion": "7536152418"
+    },
+    {
+      "titulo": "Intéressant",
+      "fecha": "2020-08-11 12:42:20",
+      "monto": 152291.72,
+      "medio_de_pago": {"id": 16, "description": "Okuneva and Sons"},
+      "numero_de_operacion": "4145163567"
+    },
+    {
+      "titulo": "Géraldine",
+      "fecha": "2020-06-25 10:27:57",
+      "monto": 27383.25,
+      "medio_de_pago": {"id": 36, "description": "Brakus and Sons"},
+      "numero_de_operacion": "9074333486"
+    },
+    {
+      "titulo": "Rachèle",
+      "fecha": "2020-11-04 11:34:41",
+      "monto": 3673.32,
+      "medio_de_pago": {"id": 70, "description": "Ward Group"},
+      "numero_de_operacion": "6724285194"
+    },
+    {
+      "titulo": "Bérénice",
+      "fecha": "2020-12-17 07:23:17",
+      "monto": 102205.02,
+      "medio_de_pago": {"id": 23, "description": "Becker LLC"},
+      "numero_de_operacion": "3977938614"
+    },
+    {
+      "titulo": "Örjan",
+      "fecha": "2020-09-26 04:31:56",
+      "monto": 63928.19,
+      "medio_de_pago": {"id": 56, "description": "Gutkowski LLC"},
+      "numero_de_operacion": "9667791092"
+    },
+    {
+      "titulo": "Lóng",
+      "fecha": "2020-06-22 05:58:47",
+      "monto": 189135.5,
+      "medio_de_pago": {"id": 61, "description": "Marquardt, Ryan and Dare"},
+      "numero_de_operacion": "8503725975"
+    },
+    {
+      "titulo": "Personnalisée",
+      "fecha": "2020-05-02 22:46:57",
+      "monto": 96962.85,
+      "medio_de_pago": {"id": 98, "description": "Jacobson-Kutch"},
+      "numero_de_operacion": "4174284482"
+    },
+    {
+      "titulo": "Médiamass",
+      "fecha": "2020-03-09 21:20:15",
+      "monto": 120860.76,
+      "medio_de_pago": {"id": 2, "description": "Ritchie LLC"},
+      "numero_de_operacion": "6277975366"
+    },
+    {
+      "titulo": "Loïc",
+      "fecha": "2020-12-23 22:54:22",
+      "monto": 17127.72,
+      "medio_de_pago": {
+        "id": 48,
+        "description": "Huels, Schamberger and Mills"
+      },
+      "numero_de_operacion": "5771829641"
+    },
+    {
+      "titulo": "Célestine",
+      "fecha": "2020-05-19 20:09:57",
+      "monto": 165804.91,
+      "medio_de_pago": {"id": 17, "description": "Reynolds-Considine"},
+      "numero_de_operacion": "6523283534"
+    },
+    {
+      "titulo": "Gaïa",
+      "fecha": "2020-02-18 07:24:57",
+      "monto": 91079.23,
+      "medio_de_pago": {"id": 65, "description": "Renner, Watsica and Terry"},
+      "numero_de_operacion": "3908335922"
+    },
+    {
+      "titulo": "Sòng",
+      "fecha": "2020-12-28 06:30:42",
+      "monto": 216876.05,
+      "medio_de_pago": {"id": 97, "description": "Jakubowski-Feest"},
+      "numero_de_operacion": "9197068160"
+    },
+    {
+      "titulo": "Marie-thérèse",
+      "fecha": "2020-11-29 22:01:35",
+      "monto": 235787.66,
+      "medio_de_pago": {"id": 2, "description": "Connelly-Smith"},
+      "numero_de_operacion": "9524228343"
+    },
+    {
+      "titulo": "Zhì",
+      "fecha": "2020-08-30 08:11:32",
+      "monto": 64748.77,
+      "medio_de_pago": {"id": 14, "description": "Collier-Jakubowski"},
+      "numero_de_operacion": "8597672269"
+    },
+    {
+      "titulo": "Wá",
+      "fecha": "2020-08-05 15:52:33",
+      "monto": 127803.97,
+      "medio_de_pago": {"id": 74, "description": "Feeney-Johnson"},
+      "numero_de_operacion": "0305063499"
+    },
+    {
+      "titulo": "Märta",
+      "fecha": "2020-06-23 09:50:26",
+      "monto": 149458.75,
+      "medio_de_pago": {"id": 19, "description": "Pacocha-Willms"},
+      "numero_de_operacion": "4565213869"
+    },
+    {
+      "titulo": "Publicité",
+      "fecha": "2020-07-12 05:44:07",
+      "monto": 157286.61,
+      "medio_de_pago": {"id": 92, "description": "Fisher, Osinski and Grady"},
+      "numero_de_operacion": "8663106106"
+    },
+    {
+      "titulo": "Ruò",
+      "fecha": "2020-03-06 05:30:23",
+      "monto": 153860.91,
+      "medio_de_pago": {"id": 35, "description": "Dickens-Morissette"},
+      "numero_de_operacion": "1170565522"
+    },
+    {
+      "titulo": "Yáo",
+      "fecha": "2020-06-25 10:12:48",
+      "monto": 217564.09,
+      "medio_de_pago": {"id": 82, "description": "Kautzer, Smith and Auer"},
+      "numero_de_operacion": "1853421642"
+    },
+    {
+      "titulo": "Tán",
+      "fecha": "2020-04-02 07:16:35",
+      "monto": 136413.18,
+      "medio_de_pago": {"id": 55, "description": "Brakus, Hoppe and Johnson"},
+      "numero_de_operacion": "4725623644"
+    },
+    {
+      "titulo": "Göran",
+      "fecha": "2021-01-07 09:32:03",
+      "monto": 23562.75,
+      "medio_de_pago": {"id": 98, "description": "Lemke and Sons"},
+      "numero_de_operacion": "4777182819"
+    },
+    {
+      "titulo": "Lóng",
+      "fecha": "2020-07-10 01:59:12",
+      "monto": 99330.76,
+      "medio_de_pago": {"id": 2, "description": "Casper Inc"},
+      "numero_de_operacion": "0231895623"
+    },
+    {
+      "titulo": "Vérane",
+      "fecha": "2020-03-17 02:25:25",
+      "monto": 229019.03,
+      "medio_de_pago": {
+        "id": 72,
+        "description": "Cummerata, Wunsch and Rippin"
+      },
+      "numero_de_operacion": "1530911311"
+    },
+    {
+      "titulo": "Hélèna",
+      "fecha": "2020-05-09 05:54:24",
+      "monto": 98577.51,
+      "medio_de_pago": {"id": 45, "description": "Nitzsche Inc"},
+      "numero_de_operacion": "8311113971"
+    },
+    {
+      "titulo": "Magdalène",
+      "fecha": "2020-11-04 06:42:42",
+      "monto": 221006.17,
+      "medio_de_pago": {"id": 61, "description": "Bernhard-Herzog"},
+      "numero_de_operacion": "5733445734"
+    },
+    {
+      "titulo": "Börje",
+      "fecha": "2020-11-16 06:57:54",
+      "monto": 67477.0,
+      "medio_de_pago": {"id": 38, "description": "Skiles-Roob"},
+      "numero_de_operacion": "1656537729"
+    },
+    {
+      "titulo": "Léone",
+      "fecha": "2020-05-24 22:41:46",
+      "monto": 24557.93,
+      "medio_de_pago": {"id": 7, "description": "Auer and Sons"},
+      "numero_de_operacion": "1393756514"
+    },
+    {
+      "titulo": "Desirée",
+      "fecha": "2020-07-17 04:48:28",
+      "monto": 106894.3,
+      "medio_de_pago": {"id": 39, "description": "Prohaska-Kunze"},
+      "numero_de_operacion": "6291179784"
+    },
+    {
+      "titulo": "Andréa",
+      "fecha": "2020-07-05 08:20:38",
+      "monto": 246973.89,
+      "medio_de_pago": {"id": 96, "description": "Torp and Sons"},
+      "numero_de_operacion": "3519222272"
+    },
+    {
+      "titulo": "Hélèna",
+      "fecha": "2020-06-14 15:18:04",
+      "monto": 141237.95,
+      "medio_de_pago": {"id": 44, "description": "Wyman-Schuppe"},
+      "numero_de_operacion": "9650778896"
+    },
+    {
+      "titulo": "Clémence",
+      "fecha": "2021-01-11 04:43:57",
+      "monto": 166633.15,
+      "medio_de_pago": {"id": 31, "description": "Frami, Rippin and Conroy"},
+      "numero_de_operacion": "1692241338"
+    },
+    {
+      "titulo": "Marie-thérèse",
+      "fecha": "2020-12-19 15:32:22",
+      "monto": 101396.89,
+      "medio_de_pago": {"id": 85, "description": "Kertzmann-Blick"},
+      "numero_de_operacion": "1930834063"
+    },
+    {
+      "titulo": "Andréanne",
+      "fecha": "2020-09-18 20:43:53",
+      "monto": 178796.69,
+      "medio_de_pago": {"id": 10, "description": "Kemmer, Lemke and Paucek"},
+      "numero_de_operacion": "1964165083"
+    },
+    {
+      "titulo": "Marie-noël",
+      "fecha": "2020-06-23 07:28:36",
+      "monto": 195560.83,
+      "medio_de_pago": {"id": 21, "description": "Abernathy-Schaefer"},
+      "numero_de_operacion": "1353337286"
+    },
+    {
+      "titulo": "Eugénie",
+      "fecha": "2020-08-25 10:23:20",
+      "monto": 199313.87,
+      "medio_de_pago": {"id": 27, "description": "Bogisich-Hansen"},
+      "numero_de_operacion": "2248803184"
+    },
+    {
+      "titulo": "Pò",
+      "fecha": "2020-04-14 18:18:49",
+      "monto": 64007.82,
+      "medio_de_pago": {"id": 86, "description": "Johns-Mayert"},
+      "numero_de_operacion": "7549092095"
+    },
+    {
+      "titulo": "Marie-josée",
+      "fecha": "2021-01-31 00:14:52",
+      "monto": 242391.32,
+      "medio_de_pago": {"id": 63, "description": "Hansen-Hessel"},
+      "numero_de_operacion": "4930400724"
+    },
+    {
+      "titulo": "Maïlys",
+      "fecha": "2020-09-01 01:07:25",
+      "monto": 22192.93,
+      "medio_de_pago": {"id": 75, "description": "Boyle-Parisian"},
+      "numero_de_operacion": "3338859902"
+    },
+    {
+      "titulo": "Méline",
+      "fecha": "2020-06-03 04:54:53",
+      "monto": 93548.88,
+      "medio_de_pago": {"id": 78, "description": "Harris Inc"},
+      "numero_de_operacion": "5766865643"
+    },
+    {
+      "titulo": "Cunégonde",
+      "fecha": "2020-05-06 06:56:29",
+      "monto": 160255.2,
+      "medio_de_pago": {"id": 52, "description": "Zemlak and Sons"},
+      "numero_de_operacion": "5924342123"
+    },
+    {
+      "titulo": "Ráo",
+      "fecha": "2020-12-28 13:05:34",
+      "monto": 240560.52,
+      "medio_de_pago": {"id": 86, "description": "Goyette-Aufderhar"},
+      "numero_de_operacion": "4667896108"
+    },
+    {
+      "titulo": "Estève",
+      "fecha": "2020-04-23 07:47:18",
+      "monto": 152829.21,
+      "medio_de_pago": {"id": 41, "description": "Buckridge-Hermiston"},
+      "numero_de_operacion": "1716843545"
+    },
+    {
+      "titulo": "Maïly",
+      "fecha": "2021-02-02 23:56:04",
+      "monto": 67096.8,
+      "medio_de_pago": {"id": 24, "description": "Leannon Group"},
+      "numero_de_operacion": "7804038429"
+    },
+    {
+      "titulo": "Mà",
+      "fecha": "2020-08-22 15:31:11",
+      "monto": 47471.4,
+      "medio_de_pago": {
+        "id": 82,
+        "description": "Wintheiser, Kuhlman and Parker"
+      },
+      "numero_de_operacion": "4511549753"
+    },
+    {
+      "titulo": "Liè",
+      "fecha": "2020-12-29 17:48:51",
+      "monto": 135797.74,
+      "medio_de_pago": {"id": 20, "description": "Bernhard LLC"},
+      "numero_de_operacion": "9896217092"
+    },
+    {
+      "titulo": "Pål",
+      "fecha": "2020-04-23 22:09:48",
+      "monto": 68364.72,
+      "medio_de_pago": {"id": 90, "description": "Stark, Lemke and Wehner"},
+      "numero_de_operacion": "2011857147"
+    },
+    {
+      "titulo": "Jú",
+      "fecha": "2020-08-05 10:44:30",
+      "monto": 227277.52,
+      "medio_de_pago": {"id": 5, "description": "Mertz LLC"},
+      "numero_de_operacion": "0130067032"
+    },
+    {
+      "titulo": "Maëlla",
+      "fecha": "2020-03-05 23:36:38",
+      "monto": 30657.91,
+      "medio_de_pago": {"id": 6, "description": "Oberbrunner, Ebert and Torp"},
+      "numero_de_operacion": "5905202079"
+    },
+    {
+      "titulo": "Irène",
+      "fecha": "2020-05-06 06:59:23",
+      "monto": 229482.05,
+      "medio_de_pago": {"id": 65, "description": "Moen, Wintheiser and Hintz"},
+      "numero_de_operacion": "3782389905"
+    },
+    {
+      "titulo": "Mén",
+      "fecha": "2020-06-19 06:46:41",
+      "monto": 242225.71,
+      "medio_de_pago": {"id": 92, "description": "Harris LLC"},
+      "numero_de_operacion": "2434906117"
+    },
+    {
+      "titulo": "Adélie",
+      "fecha": "2020-06-12 08:56:25",
+      "monto": 106706.15,
+      "medio_de_pago": {"id": 40, "description": "Hirthe, Daugherty and Koch"},
+      "numero_de_operacion": "2350087417"
+    },
+    {
+      "titulo": "Rachèle",
+      "fecha": "2020-02-12 10:16:40",
+      "monto": 39782.47,
+      "medio_de_pago": {"id": 62, "description": "Simonis-Mante"},
+      "numero_de_operacion": "3194894587"
+    },
+    {
+      "titulo": "Yóu",
+      "fecha": "2020-09-21 01:44:14",
+      "monto": 141688.21,
+      "medio_de_pago": {"id": 97, "description": "Wyman-Huels"},
+      "numero_de_operacion": "1140796283"
+    },
+    {
+      "titulo": "Méline",
+      "fecha": "2020-10-20 13:20:27",
+      "monto": 9843.77,
+      "medio_de_pago": {"id": 65, "description": "Grady Group"},
+      "numero_de_operacion": "8947434442"
+    },
+    {
+      "titulo": "Aloïs",
+      "fecha": "2020-12-25 19:12:36",
+      "monto": 39773.18,
+      "medio_de_pago": {"id": 80, "description": "Hand LLC"},
+      "numero_de_operacion": "6906115618"
+    },
+    {
+      "titulo": "Lucrèce",
+      "fecha": "2020-07-15 14:51:13",
+      "monto": 212935.38,
+      "medio_de_pago": {"id": 52, "description": "McGlynn Inc"},
+      "numero_de_operacion": "4532915228"
+    },
+    {
+      "titulo": "Maëlla",
+      "fecha": "2020-11-23 13:19:57",
+      "monto": 125405.51,
+      "medio_de_pago": {"id": 50, "description": "Schoen-Dach"},
+      "numero_de_operacion": "8419678635"
+    },
+    {
+      "titulo": "Eloïse",
+      "fecha": "2020-02-23 13:11:39",
+      "monto": 233540.32,
+      "medio_de_pago": {"id": 19, "description": "Dickens-Glover"},
+      "numero_de_operacion": "3881290397"
+    },
+    {
+      "titulo": "Régine",
+      "fecha": "2020-07-09 09:31:13",
+      "monto": 104727.65,
+      "medio_de_pago": {"id": 40, "description": "Rippin and Sons"},
+      "numero_de_operacion": "3849225917"
+    },
+    {
+      "titulo": "Aimée",
+      "fecha": "2020-03-30 02:46:11",
+      "monto": 92363.7,
+      "medio_de_pago": {"id": 40, "description": "Ruecker-Pollich"},
+      "numero_de_operacion": "3516350989"
+    },
+    {
+      "titulo": "Danièle",
+      "fecha": "2021-01-12 06:39:41",
+      "monto": 1575.66,
+      "medio_de_pago": {"id": 56, "description": "Stracke-Altenwerth"},
+      "numero_de_operacion": "6287569107"
+    },
+    {
+      "titulo": "Cunégonde",
+      "fecha": "2020-12-06 08:54:48",
+      "monto": 166922.73,
+      "medio_de_pago": {"id": 59, "description": "Dare, Graham and Donnelly"},
+      "numero_de_operacion": "8159530919"
+    },
+    {
+      "titulo": "Mélissandre",
+      "fecha": "2020-12-08 03:06:24",
+      "monto": 203053.76,
+      "medio_de_pago": {"id": 28, "description": "Sauer-Bauch"},
+      "numero_de_operacion": "0591493888"
+    },
+    {
+      "titulo": "Marie-thérèse",
+      "fecha": "2020-05-20 23:11:57",
+      "monto": 241528.71,
+      "medio_de_pago": {"id": 34, "description": "Grant LLC"},
+      "numero_de_operacion": "1481721143"
+    },
+    {
+      "titulo": "Séréna",
+      "fecha": "2020-07-10 04:10:59",
+      "monto": 194586.95,
+      "medio_de_pago": {"id": 8, "description": "Sanford, Nolan and Lang"},
+      "numero_de_operacion": "0174169868"
+    },
+    {
+      "titulo": "Zhì",
+      "fecha": "2020-03-19 00:30:26",
+      "monto": 152351.4,
+      "medio_de_pago": {
+        "id": 38,
+        "description": "Effertz, Kuvalis and Reynolds"
+      },
+      "numero_de_operacion": "2058146360"
+    },
+    {
+      "titulo": "Bécassine",
+      "fecha": "2021-01-11 02:02:39",
+      "monto": 92888.3,
+      "medio_de_pago": {"id": 9, "description": "Robel-Beatty"},
+      "numero_de_operacion": "7344218887"
+    },
+    {
+      "titulo": "Cécilia",
+      "fecha": "2020-03-25 06:50:54",
+      "monto": 206850.71,
+      "medio_de_pago": {"id": 14, "description": "Kassulke-Ledner"},
+      "numero_de_operacion": "2718954124"
+    },
+    {
+      "titulo": "Vérane",
+      "fecha": "2020-11-05 03:32:35",
+      "monto": 31495.03,
+      "medio_de_pago": {"id": 14, "description": "Kuhic-Hermann"},
+      "numero_de_operacion": "2201975485"
+    },
+    {
+      "titulo": "Mégane",
+      "fecha": "2020-04-11 06:51:03",
+      "monto": 42805.06,
+      "medio_de_pago": {"id": 93, "description": "Howell, Tromp and Miller"},
+      "numero_de_operacion": "6724008867"
+    },
+    {
+      "titulo": "Bénédicte",
+      "fecha": "2020-11-16 14:01:25",
+      "monto": 97432.11,
+      "medio_de_pago": {"id": 78, "description": "Moore, Roberts and Zboncak"},
+      "numero_de_operacion": "0424528959"
+    },
+    {
+      "titulo": "Maï",
+      "fecha": "2020-08-15 01:02:51",
+      "monto": 137180.52,
+      "medio_de_pago": {"id": 72, "description": "Kovacek-Heidenreich"},
+      "numero_de_operacion": "5740657792"
+    },
+    {
+      "titulo": "Renée",
+      "fecha": "2020-07-05 08:26:29",
+      "monto": 174635.48,
+      "medio_de_pago": {"id": 47, "description": "Leuschke-Stamm"},
+      "numero_de_operacion": "5193588417"
+    },
+    {
+      "titulo": "Pénélope",
+      "fecha": "2021-01-25 02:26:01",
+      "monto": 232415.88,
+      "medio_de_pago": {"id": 73, "description": "Purdy Group"},
+      "numero_de_operacion": "1457468050"
+    },
+    {
+      "titulo": "Göran",
+      "fecha": "2021-01-22 07:00:05",
+      "monto": 238771.54,
+      "medio_de_pago": {"id": 99, "description": "Fadel LLC"},
+      "numero_de_operacion": "3078280942"
+    },
+    {
+      "titulo": "Audréanne",
+      "fecha": "2020-11-25 15:07:51",
+      "monto": 136351.51,
+      "medio_de_pago": {
+        "id": 4,
+        "description": "Baumbach, Runolfsson and Wyman"
+      },
+      "numero_de_operacion": "7072610715"
+    },
+    {
+      "titulo": "Maïté",
+      "fecha": "2021-01-05 16:02:44",
+      "monto": 37214.6,
+      "medio_de_pago": {
+        "id": 1,
+        "description": "Gulgowski, Schmidt and Wunsch"
+      },
+      "numero_de_operacion": "9396819425"
+    },
+    {
+      "titulo": "Gérald",
+      "fecha": "2020-06-30 20:09:45",
+      "monto": 159713.77,
+      "medio_de_pago": {"id": 98, "description": "Ryan Inc"},
+      "numero_de_operacion": "8149061762"
     }
   ]
-}
